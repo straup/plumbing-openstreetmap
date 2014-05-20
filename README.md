@@ -4,6 +4,7 @@ I am going to build an OSM instance and these will be my notes and tools for mak
 
 ## See also
 
+* https://github.com/perrygeo/vagrant-webmaps
 * https://github.com/iandees/osm-on-ec2
 * http://www.paulnorman.ca/files/osm2pgsql-performance.pdf
 * https://speakerdeck.com/mojodna/running-your-own-rendering-infrastructure
